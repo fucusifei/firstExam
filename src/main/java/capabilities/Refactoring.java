@@ -63,7 +63,7 @@ public class Refactoring {
 
         }
     }
-    private FileReader readFromOneFile (String fileName) throws IOException {
+    public FileReader readFromOneFile (String fileName) throws IOException {
         FileReader fileReader = new FileReader();
         BufferedReader reader = Files.newBufferedReader(Paths.get(fileName), StandardCharsets.UTF_8);
         fileReader.readManufacturerInfo(reader);
