@@ -4,22 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42056689-f4d2-4ec8-9f41-1784e9434a82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Manufacturer/ChinaSouvenirsCompany.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Manufacturer/USASouvenirsCompany.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Manufacturer/UkraineSouvenirsCompany.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/capabilities/Refactoring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/capabilities/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/file/FileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/file/FileWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/objects/Manufacturer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/objects/Souvenir.java" afterDir="false" />
+    <list default="true" id="42056689-f4d2-4ec8-9f41-1784e9434a82" name="Changes" comment="innit commit">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Manufacturer/ChinaSouvenirsCompany.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Manufacturer/ChinaSouvenirsCompany.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/capabilities/Refactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/capabilities/Refactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/file/FileWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/objects/Manufacturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/objects/Manufacturer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +42,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/gitlabProj/collectionpractice-master"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/spelp/IdeaProjects/testTaskForJavaCourses",
+    "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -93,6 +88,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664120840050</updated>
     </task>
+    <task id="LOCAL-00001" summary="innit commit">
+      <created>1664307810135</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664307810135</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,5 +108,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="innit commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="innit commit" />
   </component>
 </project>

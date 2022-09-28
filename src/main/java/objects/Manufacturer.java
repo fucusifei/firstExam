@@ -19,7 +19,7 @@ public class Manufacturer {
         return countOfSouvenirTypes;
     }
 
-    public void setCountOfSouvenirTypes(int countOfSouvenirTypes) {
+    public void setCountOfSouvenirTypes(long countOfSouvenirTypes) {
         this.countOfSouvenirTypes = countOfSouvenirTypes;
     }
     public String getName() {
